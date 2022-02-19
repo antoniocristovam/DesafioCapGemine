@@ -26,6 +26,9 @@ Contém no mínimo 1 letra em minúsculo. <br>
 Contém no mínimo 1 letra em maiúsculo. <br>
 Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
 
+<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/q2.png?raw=true">
+
+
 # < Questão 03 >
 
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
