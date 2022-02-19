@@ -20,8 +20,6 @@
 
 <img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/q1rr.png?raw=true">
 
-![SoExcited~GIF](https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/gif.gif?raw=true)
-
 # < 🤗 Questão 02 >
 
 Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
@@ -35,14 +33,14 @@ Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*(
 # Senha - Forte
 
 <img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/q2.png?raw=true">
-  • Se a senha que você digitou for forte, vai mostrar isso:
-<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/senhaForte.png?raw=true">
+
+![SoExcited~GIF]()
 
 # Senha - Fraca
 
 <img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/senhafraca.png?raw=true">
-  • Se a senha que você digitou for fraca, vai mostrar isso:
-<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/senhafraca.png?raw=true">
+
+![SoExcited~GIF]()
 
 
 # < 🤪 Questão 03 >
