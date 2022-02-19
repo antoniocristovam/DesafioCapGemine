@@ -8,11 +8,11 @@
 
 | Questão  |  Descrição  | Entrada| Saída|
 | ------------------- | ------------------- |------------------- |------------------- |
-|   01 |  Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço. | n = 6 |![Captura de Tela 2022-02-15 às 21 47 01](https://user-images.githubusercontent.com/31116694/154174962-771b4669-fe7d-4662-8825-f4fd98540afd.png)
-|   02| Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte |Ya3 |3|
+|   01 |  Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço. | n = 6 |![](https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/foto_q1.png?raw=true)
+|   02| Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte | Ya3 |3|
 |   03|  Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas. |ifailuhkqq| 3 |
 
-# < Questão 01 >
+# < 😎 Questão 01 >
 
   Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
   
@@ -20,8 +20,9 @@
 
 <img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/q1rr.png?raw=true">
 
+![SoExcited~GIF](https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/gif.gif?raw=true)
 
-# < Questão 02 >
+# < 🤗 Questão 02 >
 
 Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
 
@@ -44,7 +45,7 @@ Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*(
 <img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/senhaFraca.png?raw=true">
 
 
-# < Questão 03 >
+# < 🤪 Questão 03 >
 
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
