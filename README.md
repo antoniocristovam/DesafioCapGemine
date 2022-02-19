@@ -26,9 +26,24 @@ Contém no mínimo 1 letra em minúsculo. <br>
 Contém no mínimo 1 letra em maiúsculo. <br>
 Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
 
+# Senha - Forte
+
 <img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/q2.png?raw=true">
+Se a senha que você digitou for forte, vai mostrar isso:
+<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/senhaForte.png?raw=true">
+
+# Senha - Fraca
+
+<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/senhafraca.png?raw=true">
+
+Se a senha que você digitou for fraca, vai mostrar isso:
+<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/senhaFraca.png?raw=true">
 
 
 # < Questão 03 >
 
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
+
+
+<img alt="antonio-Js"  height="300px" width="300px"  src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/Prova/img/apple_img.png?raw=true">
+
