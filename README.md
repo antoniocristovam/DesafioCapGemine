@@ -18,7 +18,9 @@
   
 ![q1](https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/q1.png?raw=true)
 
-<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/q1rr.png?raw=true">
+<hr>
+
+![SoExcited~GIF](https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/gif/resolucao2gif.gif?raw=true) 
 
 # < 🤗 Questão 02 >
 
@@ -30,17 +32,11 @@ Contém no mínimo 1 letra em minúsculo. <br>
 Contém no mínimo 1 letra em maiúsculo. <br>
 Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
 
-# Senha - Forte
-
 <img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/q2.png?raw=true">
 
-![SoExcited~GIF]()
+<hr>
 
-# Senha - Fraca
-
-<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/senhafraca.png?raw=true">
-
-![SoExcited~GIF]()
+![SoExcited~GIF](https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/gif/resolucao1gif.gif?raw=true)
 
 
 # < 🤪 Questão 03 >
