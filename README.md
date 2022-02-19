@@ -42,7 +42,7 @@ Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*(
 
 <img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/senhafraca.png?raw=true">
   • Se a senha que você digitou for fraca, vai mostrar isso:
-<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/senhaFraca.png?raw=true">
+<img alt="antonio-Js" src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/senhafraca.png?raw=true">
 
 
 # < 🤪 Questão 03 >
