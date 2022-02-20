@@ -62,6 +62,4 @@ function Anagram(str1, str2) {
     return anagramsCount
   }
   
-  console.log(sherlock('ifailuhkqq'));//Coloque o valor a ser testado nesse local.
-
-  //ifailuhkqq
+  console.log(sherlock('ovo'));//Coloque o valor a ser testado nesse local.
