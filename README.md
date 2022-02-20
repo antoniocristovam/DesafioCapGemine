@@ -6,6 +6,10 @@
 
 <img alt="antonio-Js" height="55px" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
+# < 💻 Requisitos >
+ * Visual studio code
+ * Node
+
 | Questão  |  Descrição  | Entrada| Saída|
 | ------------------- | ------------------- |------------------- |------------------- |
 |   01 |  Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço. | n = 6 |![](https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/foto_q1.png?raw=true)
