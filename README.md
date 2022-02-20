@@ -43,6 +43,12 @@ Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*(
 
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
+![q1](https://github.com/antoniocristovam/DesafioCapGemini/raw/main/img/essaimagem.png?raw=true)
+
+<hr>
+
+![SoExcited~GIF](https://github.com/antoniocristovam/DesafioCapGemini/blob/main/img/gif/resolucao3gif.gif?raw=true)
+
+<hr>
 
 <img alt="antonio-Js"  height="300px" width="300px"  src="https://github.com/antoniocristovam/DesafioCapGemine/blob/main/img/apple_img.png?raw=true">
-
